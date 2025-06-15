@@ -20,7 +20,4 @@ Here are some links and references to helpful resources for maintenance, diagnos
 
 | Topic                        | Description                              | Link                                                                 |
 |-----------------------------|------------------------------------------|----------------------------------------------------------------------|
-| Oil Pressure & PSI Info     | Forum discussion on expected oil pressure | [Ranger Station Forum – Oil Pressure]([https://www.therangerstation.com/forums/index.php?threads/oil-pressure-psi-range.123456/](https://www.therangerstation.com/forums/index.php?threads/oil-guage-questions.191344/)) |
-| Torque Specifications       | Factory torque specs for 1992 Ranger      | [Ford Ranger Torque Specs PDF](https://www.example.com/torque-specs) |
-| Wiring Diagrams             | Electrical schematics                     | [AutoZone Wiring Diagrams](https://www.autozone.com/repairinfo)     |         |
-| Parts Compatibility         | OEM vs aftermarket parts compatibility    | [RockAuto Ford Ranger Parts](https://www.rockauto.com/en/catalog/ford,1992,ranger) |
+| Oil Pressure & PSI Info     | Forum discussion on expected oil pressure | [Ranger Station Forum – Oil Pressure](https://www.therangerstation.com/forums/index.php?threads/oil-guage-questions.191344/) |
