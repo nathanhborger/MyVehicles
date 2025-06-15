@@ -16,7 +16,7 @@
 
 ## Helpful Resources
 
-Here are some links and references to helpful resources for maintenance, diagnostics, and repairs.
+Links and references to helpful resources for maintenance, diagnostics, and repairs.
 
 | Topic                        | Description                              | Link                                                                 |
 |-----------------------------|------------------------------------------|----------------------------------------------------------------------|
