@@ -12,7 +12,7 @@
 
 | Date of Service | Mileage at Service | Work Performed and Service Schedule | Cost     | Notes                      |
 |-----------------|--------------------|-------------------------------------|----------|----------------------------|
-| 2025-06-01      | 99,000              | Oil Change & Coolant Flush              | $160.00  | Oil: Motorcraft 5w-30       |
+| 2025-06-01      | 99,000              | Oil Change & Coolant Flush              | $100.00  | Oil: Motorcraft 5w-30       |
 
 ## Helpful Resources
 
