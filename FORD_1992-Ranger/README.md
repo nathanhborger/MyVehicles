@@ -21,3 +21,4 @@ Links and references to helpful resources for maintenance, diagnostics, and repa
 | Topic                        | Description                              | Link                                                                 |
 |-----------------------------|------------------------------------------|----------------------------------------------------------------------|
 | Oil Pressure & PSI Info     | Forum discussion on expected oil pressure | [Ranger Station Forum – Oil Pressure](https://www.therangerstation.com/forums/index.php?threads/oil-guage-questions.191344/) |
+| Fuel Pressure & Fuel Pump Info    | Forum discussion fuel pump| [Kemso-Complete Guide to 1992 fuel pump](https://www.kemsoracing.com/blogs/news/the-complete-guide-to-your-1992-ford-ranger-fuel-pump-diagnosis-replacement-maintenance?srsltid=AfmBOoqQuPepnYTWKwiCJB8KoQgaAqh2TkA3OxFDjJ8mjIKGIRahM4r5) |
